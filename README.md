@@ -2,11 +2,11 @@
 
 An algorithm is a set well-defined instructions to solve a particular problem. Well defined inputs & outputs. Each step should be clear & unambiguous. The same algorithm with the same programming language can be implemented in different ways.
 
-#### Why Algorithms?
+### Why Algorithms?
 
 - As a developer, you're going to come across problem that you need to solve. Learning algorithms translates to learning different techniques to efficiently solve those problems. One problem can be solved in many ways using different algorithms.
 
-#### Algorithm Analysis:
+### Algorithm Analysis:
 
 We evaluate the performance of an algorithm in terms of its input size.
 
@@ -38,6 +38,8 @@ By evaluating against the input size, the analysis is not only machine independe
   <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*dWZjY4494gbMQZiL-hO32w.jpeg" height='300' alt="Complexity Chart">
 </p>
 
+---
+
 ## Algorithms:
 
 1. Math Algorithms
@@ -62,6 +64,8 @@ By evaluating against the input size, the analysis is not only machine independe
    - Quick Sort
 
 1. Miscellaneous Algorithms & Problem Solving
+
+---
 
 ## Data Structure:
 

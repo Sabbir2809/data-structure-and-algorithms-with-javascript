@@ -27,7 +27,7 @@ By evaluating against the input size, the analysis is not only machine independe
 1. <b>Omega Notation: </b> Best case complexity (❌)
 1. <b>Theta Notation: </b> Average case complexity (❌)
 
-### Big-O Guide:
+### Big-O Notation Guide:
 
 1. Calculation not dependent on Input Size: O(1)
 1. One Loop: O(n)

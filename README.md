@@ -1,6 +1,6 @@
 # Data Structure & Algorithms with JavaScript
 
-An algorithm is a set well-defined instructions to solve a particular problem. Well defined inputs & outputs. Each step should be clear & unambiguous. Language independent.
+An algorithm is a set well-defined instructions to solve a particular problem. Well defined inputs & outputs. Each step should be clear & unambiguous. The same algorithm with the same programming language can be implemented in different ways.
 
 #### Why Algorithms?
 
@@ -27,14 +27,27 @@ By evaluating against the input size, the analysis is not only machine independe
 1. <b>Omega Notation: </b> Best case complexity (❌)
 1. <b>Theta Notation: </b> Average case complexity (❌)
 
+### Big-O Guide:
+
+1. Calculation not dependent on Input Size: O(1)
+1. One Loop: O(n)
+1. Two Nested Loops: O(n^2)
+1. Input Size reduced by Half: O(log n)
+
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*dWZjY4494gbMQZiL-hO32w.jpeg" alt="Complexity Chart">
+</p>
+
 ## Algorithms:
 
-1. Measuring Performance
-1. Time & Space Complexity
-1. Big O Notation
-1. Performance & Optimization (Good Code: readable, scalable)
 1. Math Algorithms
+   - Fibonacci Sequence
+   - Factorial of a Number
+   - Prime Number
+   - Power of Two
 1. Recursion
+   - Fibonacci Sequence with Recursion
+   - Factorial of a Number with Recursion
 1. Searching Algorithms
 
    - Liner Search

@@ -35,7 +35,7 @@ By evaluating against the input size, the analysis is not only machine independe
 1. Input Size reduced by Half: O(log n)
 
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*dWZjY4494gbMQZiL-hO32w.jpeg" alt="Complexity Chart">
+  <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*dWZjY4494gbMQZiL-hO32w.jpeg" height='300' alt="Complexity Chart">
 </p>
 
 ## Algorithms:

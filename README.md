@@ -29,8 +29,8 @@ By evaluating against the input size, the analysis is not only machine independe
 
 ### Big-O Notation Guide:
 
-1. Calculation not dependent on Input Size: O(1)
-1. One Loop: O(n)
+1. Calculation not dependent on Input Size: O(1) - Constant
+1. One Loop: O(n) - Linear
 1. Two Nested Loops: O(n^2)
 1. Input Size reduced by Half: O(log n)
 
@@ -47,9 +47,9 @@ By evaluating against the input size, the analysis is not only machine independe
    - Factorial of a Number
    - Prime Number
    - Power of Two
-1. Recursion
-   - Fibonacci Sequence with Recursion
-   - Factorial of a Number with Recursion
+1. Recursive
+   - Fibonacci Sequence
+   - Factorial of a Number
 1. Searching Algorithms
 
    - Liner Search

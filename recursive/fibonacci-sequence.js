@@ -6,6 +6,7 @@
 */
 
 function recursiveFibonacci(n) {
+  // base case 0, 1
   if (n < 2) {
     return n;
   }
